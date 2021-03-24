@@ -1,4 +1,4 @@
-# Coding with Curry - Flutter
+# Coding is fun always try working at least a day or night  - Flutter
 
-This is the repository for the [Coding with Curry](https://www.youtube.com/channel/UCLBhrKXc9CQczo1vBA6w_mA??sub_confirmation=1) Youtube channel.
+
 # Form
